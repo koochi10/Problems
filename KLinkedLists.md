@@ -52,7 +52,7 @@ class Solution {
 
 **Complexity Analysis**
 
-* Time complexity : $$O(n*k)$$. Where n is the length of our linked lists.
+* Time complexity : O(n*k). Where n is the length of our linked lists.
 
 ---
 #### Approach #2 Priority Queue [Accepted]
@@ -111,5 +111,5 @@ class Solution {
 
 **Complexity Analysis**
 
-* Time complexity : $$O(nlog(k))$$. Where n is the length of our linked lists
-* Space complexity : $$O(n*k)$$. Accounts for the space in our Priority Queue / Map
+* Time complexity :O(nlog(k)). Where n is the length of our linked lists
+* Space complexity : O(n*k). Accounts for the space in our Priority Queue / Map
