@@ -1,5 +1,5 @@
 ### Problem
-Merge k sorted linked lists and return it as one sorted list.
+Merge k sorted linked lists and return it as one sorted list. [https://leetcode.com/problems/merge-k-sorted-lists/description/]
 
 #### Approach #1 Brute Force [Time Limit Exceeded]
 
